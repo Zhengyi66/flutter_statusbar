@@ -1,2 +1,8 @@
 # flutter_statusbar
-flutter statusbar
+
+Android Statusbar
+
+> Supported Platforms
+>
+> - Android
+
